@@ -2,7 +2,7 @@
  * Created by labithiotis on 24/01/2014.
  */
 
-(function(){
+(function(window, document, String){
 
     "use strict";
 
@@ -994,5 +994,5 @@
 
 
 
-}());
+}(window,document, String));
 
